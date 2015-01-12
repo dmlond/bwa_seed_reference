@@ -1,4 +1,4 @@
-# mongo_agent_seed_reference
-extends dmlond/bwa_alignment with an agent to update the mongo task with the reference and build
+# mongo_agent_seed_alignment
+simple script to seed the demo alignment of the plasmodium data to the plasmodium reference
 
-see [mongo_agent_aligner](https://github.com/dmlond/docker_bwa_aligner/tree/master/mongo_agent_aligner) for details
+see [mongo_agent_aligner for details](https://github.com/dmlond/docker_bwa_aligner/tree/master/mongo_agent_aligner)
